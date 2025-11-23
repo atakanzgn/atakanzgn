@@ -26,6 +26,13 @@ Linux, sunucu yönetimi ve DevOps ile uğraşıyorum.
 ### 📫 İletişim
 <p align="center">
   <a href="mailto:atakan@atakanzgn.com.tr">
-    <img src="https://img.shields.io/badge/Mail-00ff41?style=for-the-badge&logo=gmail&logoColor=000" />
+    <img src="https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" />
+  </a>
+  <a href="https://www.linkedin.com/in/atakanzgn" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00a6ff" />
+  </a>
+  <a href="https://atakanzgn.com.tr" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=ffffff" />
   </a>
 </p>
+
