@@ -26,6 +26,6 @@ Linux, sunucu yönetimi ve DevOps ile uğraşıyorum.
 ### 📫 İletişim
 <p align="center">
   <a href="mailto:atakan@atakanzgn.com.tr">
-    <img src="https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=gmail&logoColor=000" />
+    <img src="https://img.shields.io/badge/Mail-00ff41?style=for-the-badge&logo=gmail&logoColor=000" />
   </a>
 </p>
