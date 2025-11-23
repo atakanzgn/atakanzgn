@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&duration=2300&pause=400&color=00FF41&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Flutter+%26+Mobile+App+Engineer;Backend+Dev+(Java+Spring+%2B+MySQL);Linux+%26+Server+Administration;System+Design+%26+DevOps;FOLLOW+ME+ON+GITHUB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&duration=2300&pause=400&color=00FF41&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Flutter+%26+Mobile+App+Engineer;Backend+Dev;Linux+%26+Server+Administration;System+Design+%26+DevOps;FOLLOW+ME+ON+GITHUB" />
 </p>
 
 ### 🧑‍💻 Hakkımda
